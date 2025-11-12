@@ -1,3 +1,8 @@
+# Компиляторы и эмулятор
+```shell
+sudo apt update
+sudo apt install build-essential nasm qemu-system-x86
+```
 # Сборка
 ```shell
 # Очистка
